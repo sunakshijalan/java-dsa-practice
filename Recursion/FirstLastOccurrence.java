@@ -1,4 +1,5 @@
-public class FirstLastOccurrence 
+//Write A Progrram To Print The First And Last Occurrence Of A String
+class FirstLastOccurrence 
 {
     void occurence(String s,char a,int i,int f,int l)
     {
